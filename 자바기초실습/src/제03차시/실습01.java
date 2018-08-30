@@ -17,7 +17,7 @@ public class 실습01 {
 
 		boolean i = true;
 
-		System.out.println(a1 + ',' + a2 + ',' + a3 + ',' + a4 + ',' + a5);
+		System.out.println(a1 + "," + a2 + "," + a3 + "," + a4 + "," + a5);
 		System.out.printf("%d, %d\n", b1, b2);
 		System.out.printf("%d, %d\n", c1, c2);
 		System.out.printf("%d, %d, %d", d1, d2, d3);
