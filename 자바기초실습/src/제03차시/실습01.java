@@ -21,11 +21,11 @@ public class 실습01 {
 		System.out.printf("%d, %d\n", b1, b2);
 		System.out.printf("%d, %d\n", c1, c2);
 		System.out.printf("%d, %d, %d", d1, d2, d3);
-		System.out.printf("%.1f, %.1f %.1f\n",e,f1,f2);
-		System.out.print(g1 + ","+String.valueOf(h1)+","+String.valueOf(h2)+","+String.valueOf(h3)+","+String.valueOf(h4));
+		System.out.printf("%.1f, %.1f %.1f\n", e, f1, f2);
+		System.out.print(g1 + "," + String.valueOf(h1) + "," + String.valueOf(h2) + "," + String.valueOf(h3) + ","
+				+ String.valueOf(h4));
 		System.out.println();
 		System.out.println(i);
-		
 
 	}
 

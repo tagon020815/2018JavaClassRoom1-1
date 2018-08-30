@@ -15,6 +15,7 @@ public class 실습02 {
 		System.out.println(a.hashCode() + ":" + a);
 		System.out.println(b.hashCode() + ":" + b[0] + b[1] + b[2]);
 		System.out.println(c.hashCode() + ":" + c[0] + c[1] + c[2]);
+		
 	}
 
 }
