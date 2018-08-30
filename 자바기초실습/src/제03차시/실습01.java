@@ -26,6 +26,7 @@ public class 실습01 {
 				+ String.valueOf(h4));
 		System.out.println();
 		System.out.println(i);
+	
 		
 	}
 
