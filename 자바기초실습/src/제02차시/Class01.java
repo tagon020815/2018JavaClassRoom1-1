@@ -11,16 +11,15 @@ public class Class01 {
 		System.out.println("현재i:" + i);
 
 		doIt();
-
+		
 	}
-	
+
 	void doIt() {
-		i+=5;
+		i += 5;
 		System.out.println("난 doIt 메소드란다");
 		System.out.println("내가필요할땐나를불러줘 언제든지달려갈께");
 		System.out.println("난 i, 뭐라고 부른다고? 필드 또는 맴버변수라니깐");
 		System.out.println("현재i:" + i);
 
 	}
-
 }
