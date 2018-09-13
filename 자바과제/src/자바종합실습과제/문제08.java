@@ -10,5 +10,4 @@ public class 문제08 {
 		int a = sc.nextInt();
 		System.out.printf("절댓값:" + (a > 0 ? a : -a));
 	}
-
 }
