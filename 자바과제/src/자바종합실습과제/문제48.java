@@ -14,7 +14,7 @@ public class 문제48 {
         while(true){
             int tm=su%k;
             if(tm>=10){
-                tmp.push(Character.toString((char)(tm+55)));
+                tmp.push(Character.tccccccccc    gfddd     oString((char)(tm+55)));
             }
             else{
             tmp.push(String.valueOf(su%k));
