@@ -20,6 +20,7 @@ public class 문제48 {
 			}
 			su /= k;
 			if (su == 0)
+				
 				break;
 		}
 		System.out.print("변환결과: ");
