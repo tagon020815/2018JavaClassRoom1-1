@@ -10,6 +10,7 @@ public class 문제29 {
 		int b = sc.nextInt();
 		int c = sc.nextInt();
 		
+		
 	}
 
 }
